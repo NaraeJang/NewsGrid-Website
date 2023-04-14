@@ -1,6 +1,6 @@
 # NewsGrid-Website
 
-This is a personal website project for virtual news company which contains 3 pages which is home, about, article page.
+This is a personal website project for virtual news company which contains 3 pages which is home, about, article page. <br>
 [See Live Demo](https://soft-paprenjak-1b2770.netlify.app)
 
 # Technologies used
