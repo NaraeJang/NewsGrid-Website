@@ -160,6 +160,18 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--cl-primary) !important;
 }
 
+/* Inner page container */
+.page-container {
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    padding: 2rem;
+    gap: 1.5rem;
+}
+
+.page-container > *:first-child {
+    grid-row: 1 / span 3;
+}
+
 /* Navigation */
 #main-nav {
     background: #fff;
@@ -299,3 +311,4 @@ h1, h2, h3, h4, h5, h6 {
 #main-footer .footer-container input[type='submit'] {
     width: 90%;
 }
+
